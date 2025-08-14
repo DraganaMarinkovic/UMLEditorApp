@@ -12,7 +12,7 @@ with a focus on intuitive interaction, maintainable architecture, and extensibil
 - **Export Options** — Save diagrams as image files or export as project data.
 
 ## Tech Stack
-- **Language:** Java SE 17+ (or your version)
+- **Language:** Java
 - **UI Framework:** Swing
 - **Architecture & Patterns:**
   - **MVC (Model–View–Controller)** — Separation of state, UI, and user actions.
